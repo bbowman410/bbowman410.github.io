@@ -1,8 +1,8 @@
 ## About Me
 
-I'm a PhD student studying at George Washington University located in Washington, D.C.  My research interests lie at the intersection of graph theory, machine learning, and cybersecurity.  I'm researching ways to apply deep learning to graph structured data specifically to address issues related to cybersecurity.
+I'm a PhD student studying at the George Washington University located in the heart of Washington, D.C.  My research advisor is [Dr. Howie Huang](https://www2.seas.gwu.edu/~howie/).  My research interests lie at the intersection of graph theory, machine learning, and cybersecurity.  I'm interested in researching ways to apply deep learning to graph structured data specifically to address issues related to cybersecurity.
 
-I received a B.S. in computer engineering from the University of Maryland at College park in 2013.  I spent 4 years working as a software engineer for AT&T before returning to pursue my PhD full time in 2017.
+I received a B.S. in computer engineering from the University of Maryland at College Park in 2013.  After graduating I spent 4 years working as a software engineer at AT&T Government Solutions developing cybersecurity products for industry and government partners.  In 2017 I began my full-time pursuit of my PhD at GWU.
 
 ### Publications
 
@@ -10,5 +10,5 @@ I received a B.S. in computer engineering from the University of Maryland at Col
 
 ### Awards
 
-- 2019-2020 ARCS Scholar Award
+- 2019-2020 ARCS Scholar ([Talk](downloads/ARCS_scholar_talk_03_27_19.pdf))
 
