@@ -10,5 +10,5 @@ I received a B.S. in computer engineering from the University of Maryland at Col
 
 ### Awards
 
-- 2019-2020 ARCS Scholar ([Talk](downloads/ARCS_scholar_talk_03_27_19.pdf))
+- 2019-2020 ARCS Scholar
 
