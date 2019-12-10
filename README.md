@@ -6,7 +6,11 @@ I received a B.S. in computer engineering from the University of Maryland at Col
 
 ### Publications
 
-- DeepArmour: Robust Malware Classification against Adversarial Evasion Attacks. Yuede Ji, Benjamin Bowman, and H. Howie Huang, AICS 2019, The AAAI-19 Workshop on Artificial Intelligence for Cyber Security (to appear)
+- Securing Malware Cognitive Systems against Adversarial Attacks [PDF](https://bbowman410.github.io/downloads/DeepArmour_ICCC19.pdf)  
+Yuede Ji, Benjamin Bowman, and H. Howie Huang,  
+ICCC 2019, 2019 IEEE International Conference on Cognitive Computing,   
+Best Student Paper Nomination  
+Invited to the panel discussion at The AAAI-19 Workshop on Artificial Intelligence for Cyber Security
 
 ### Awards
 
